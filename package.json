@@ -1,0 +1,22 @@
+{
+  "name": "express-nodejs-lecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidthekesler/express-nodejs-lecture.git"
+  },
+  "author": "David Kesler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidthekesler/express-nodejs-lecture/issues"
+  },
+  "homepage": "https://github.com/davidthekesler/express-nodejs-lecture#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
